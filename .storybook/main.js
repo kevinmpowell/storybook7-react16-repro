@@ -9,7 +9,6 @@ const config = {
   framework: {
     name: "@storybook/react-vite",
     options: {
-      legacyRootApi: true,
     },
   },
   docs: {
